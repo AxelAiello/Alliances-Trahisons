@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller\Panel\GameOverController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Network.cs" Line="74" Column="7" />
+      <File FileName="Assets\Scripts\Model\Session.cs" Line="180" Column="1" />
+      <File FileName="Assets\Scripts\Controller\Panel\GameOverController.cs" Line="36" Column="17" />
+      <File FileName="Assets\Scripts\Controller\Panel\GameController.cs" Line="126" Column="31" />
+      <File FileName="Assets\Scripts\PanelManager.cs" Line="97" Column="21" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="12" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
